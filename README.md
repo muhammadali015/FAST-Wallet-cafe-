@@ -1,9 +1,11 @@
 # FAST-Wallet-cafe-
 
 We are doing Intro of SE project with following team
+
 Muhammad Ali
 Ameera Hamza
 Hamza Aftab
+Sanan Azfar
 
 Sprint-1
 
