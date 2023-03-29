@@ -1,8 +1,11 @@
 # FAST-Wallet-cafe-
 
 we are doing Intro of SE project
-Alii
-Ameera Hamza
+Ali
+Ameer Hamza
 Hamza Aftab
-Sanan Azfar
+Sanaan Azfar
 ok
+
+Task4
+Sprint 2 planning done
