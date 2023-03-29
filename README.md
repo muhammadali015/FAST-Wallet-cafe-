@@ -9,7 +9,7 @@ Sanan Azfar
 
 Sprint-1
 
-ok
+
 Sanan Azfar: Task1 UI/UX desing done
 Task 2 
 Trello card making and sprint planning completed
