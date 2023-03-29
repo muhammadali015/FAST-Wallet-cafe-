@@ -1,6 +1,6 @@
 # FAST-Wallet-cafe-
 
-we are doing Intro of SE project
+We are doing Intro of SE project with following team
 Muhammad Ali
 Ameera Hamza
 Hamza Aftab
