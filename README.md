@@ -1,7 +1,7 @@
 # FAST-Wallet-cafe-
 
 we are doing Intro of SE project
-Alii
+Muhammad Ali
 Ameera Hamza
 Hamza Aftab
 Sanan Azfar: Task1 UI/UX desing done
