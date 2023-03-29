@@ -1,11 +1,10 @@
 # FAST-Wallet-cafe-
 
 we are doing Intro of SE project
-Ali
-Ameer Hamza
+Alii
+Ameera Hamza
 Hamza Aftab
-Sanaan Azfar
-ok
+Sanan Azfar: Task1 UI/UX desing done
 
-Task4
-Sprint 2 planning done
+ok
+figma project:https://www.figma.com/file/aXWjwr40ZqQxv6DrTRP352/Fast-Wallet?node-id=0%3A1&t=rSdRy1Gglxpq1utm-1
